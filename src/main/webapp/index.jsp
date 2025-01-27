@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "welcome TO DevOps team" %></h2>
+<h2><%= "welcome TO DevOps teams" %></h2>
 </body>
 </html>
